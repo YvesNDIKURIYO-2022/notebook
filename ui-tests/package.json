@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@jupyterlab/galata": "~5.1.0-rc.0",
-    "@playwright/test": "^1.33.0",
+    "@playwright/test": "^1.42.1",
     "rimraf": "^3.0.2"
   }
 }
