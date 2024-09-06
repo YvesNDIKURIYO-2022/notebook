@@ -48,7 +48,7 @@
     "@jupyterlab/apputils": "~4.2.5",
     "@jupyterlab/coreutils": "~6.1.5",
     "@jupyterlab/docregistry": "~4.1.5",
-    "@jupyterlab/notebook": "~4.1.5",
+    "@jupyterlab/notebook": "~4.2.0",
     "@jupyterlab/translation": "~4.1.5",
     "@jupyterlab/ui-components": "~4.1.5",
     "@lumino/commands": "^2.2.0",
